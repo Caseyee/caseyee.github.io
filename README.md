@@ -1,0 +1,2 @@
+# Rikkaka.github.io
+blog
